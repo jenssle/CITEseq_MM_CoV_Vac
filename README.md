@@ -1,5 +1,5 @@
 # CITEseq_MM_CoV_Vac
-This repository features the analysis code for the manuscript "2023 Enssle JC et al., Cytokine-responsive T- and NK-cell populations characterize SARS-CoV-2 vaccination responders and breakthrough infection in patients with multiple myeloma".
+This repository features the analysis code for the manuscript "2023 Enssle JC et al., Cytokine-responsive T- and NK-cell populations portray SARS-CoV-2 vaccination responders and breakthrough infection in patients with multiple myeloma".
 
 20230224_CITE_RawDataProcessing_Clustering.md features the processing of raw data, normalization, multi-omics integration via MOFA, clustering (including detailes subclustering) and cell type annotation.
 
